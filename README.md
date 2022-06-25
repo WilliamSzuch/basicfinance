@@ -1,2 +1,2 @@
 # basicfinance
-Finex category  basicfinance 
+Finexec category  basicfinance 
