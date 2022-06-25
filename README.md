@@ -1,2 +1,2 @@
 # basicfinance
-Finexec category  basicfinance 
+Finexec category actuariallife 
